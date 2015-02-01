@@ -1,0 +1,3 @@
+[submodule "CONTRIBUTING.md"]
+	path = CONTRIBUTING.md
+	url = https://github.com/cirosantilli/test.git
